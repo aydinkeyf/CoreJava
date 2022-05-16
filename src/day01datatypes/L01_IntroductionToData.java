@@ -10,6 +10,8 @@ public class L01_IntroductionToData {
         git push
          */
         System.out.println("Hello World!");
+        System.out.println("Java ile hayat daha guzel");
+
 
     }
 }
