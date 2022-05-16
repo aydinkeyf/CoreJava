@@ -7,9 +7,9 @@ public class VariablesAndDataTypes {
         int a = 5, b = 3, c = a + b;
         double x = 8.134124, y = 7.4132412;
         float myPie = 1.4f, yourPie = 2.4f;
-
         byte myByte = 25;
         short mShort = 1500;
+
         System.out.println(c);
         System.out.println(x);
         System.out.println(yourPie);
