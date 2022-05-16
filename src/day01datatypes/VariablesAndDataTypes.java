@@ -4,6 +4,7 @@ import java.util.concurrent.SynchronousQueue;
 
 public class VariablesAndDataTypes {
     public static void main(String[] args) {
+       //Starting from Int to boolean, they are primitive data types and start with lower case
         int a = 5, b = 3, c = a + b;
         System.out.println(c);
 
