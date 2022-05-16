@@ -30,6 +30,10 @@ public class VariablesAndDataTypes {
         System.out.println(right);
         System.out.println(wrong);
 
+        //'String' is a reference data type, that's why it is starting with uppercase
+        String myFirstJavaStudy = "Merhaben Mukim";
+        System.out.println(myFirstJavaStudy);
+
 
 
 
