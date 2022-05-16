@@ -53,6 +53,17 @@ public class VariablesAndDataTypes {
 
         /* Java operators: Arithmetic operators, Assignment operators
         Comparison operators, Logical operators, Bitwise operators */
+        //Assignment operators
+        int num3 = 11, num4 = 2; // "="
+        num3 += 2; // "+="
+        num3 *= 2; // "*="
+        num3 /= 2; // "/="
+        num3 &= 2; // "&="
+        System.out.println(num3);
+
+        //Arithmetic Operators
+
+
 
 
 
