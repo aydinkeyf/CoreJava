@@ -62,6 +62,8 @@ public class VariablesAndDataTypes {
         System.out.println(num3);
 
         //Arithmetic Operators
+        int ab = 3, cd= 5, total = ab + cd;
+        System.out.println(total);
 
 
 
