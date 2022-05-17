@@ -20,9 +20,5 @@ public class Practice2 {
         System.out.println("Tax Amount: " + taxAmount);
         System.out.println("Taxed Amount: " + taxedPrice);
 
-
-
-
-
     }
 }
