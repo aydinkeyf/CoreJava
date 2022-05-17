@@ -5,29 +5,29 @@ import java.util.Scanner;
 public class Practice1 {
 
     public static void main(String[] args) {
-        int Math, Physics, Chem, Eng, Hist, Music;
+        double Math, Physics, Chem, Eng, Hist, Music;
 
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter your Math grade, please: ");
-        Math = input.nextInt();
+        Math = input.nextDouble();
 
         System.out.print("Enter your Physics grade, please: ");
-        Physics = input.nextInt();
+        Physics = input.nextDouble();
 
         System.out.print("Enter your Chem grade, please: ");
-        Chem = input.nextInt();
+        Chem = input.nextDouble();
 
         System.out.print("Enter your Eng grade, please: ");
-        Eng = input.nextInt();
+        Eng = input.nextDouble();
 
         System.out.print("Enter your Hist grade, please: ");
-        Hist = input.nextInt();
+        Hist = input.nextDouble();
 
         System.out.print("Enter your Music grade, please: ");
-        Music = input.nextInt();
+        Music = input.nextDouble();
 
-        int sum = (Math + Physics + Chem + Eng + Hist + Music) / 6;
+        double sum = (Math + Physics + Chem + Eng + Hist + Music) / 6;
         System.out.print(sum);
 
     }
